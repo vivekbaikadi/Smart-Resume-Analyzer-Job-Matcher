@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Frontend Developer",
+    "company": "TechieSoft",
+    "skills": ["html", "css", "javascript", "react"]
+  },
+  {
+    "title": "Backend Developer",
+    "company": "CodeBase",
+    "skills": ["nodejs", "express", "mongodb", "javascript"]
+  },
+  {
+    "title": "Data Analyst",
+    "company": "DataBridge",
+    "skills": ["python", "sql", "pandas", "excel"]
+  },
+  {
+    "title": "Java Developer",
+    "company": "JavaCorp",
+    "skills": ["java", "spring", "sql"]
+  }
+]
